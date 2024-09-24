@@ -673,6 +673,7 @@ body {
   z-index: 9999;
   border-bottom-left-radius: 70px;
   border-bottom-right-radius: 70px;
+  cursor: grab;
 }
 .logo {
   display: flex;
