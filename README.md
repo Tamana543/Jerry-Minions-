@@ -1,8 +1,8 @@
-# Jerry Watching Eye 
+# Jerry Watching Eye
 
 ###### A cute mini project for practicing CSS3 skills 😎
 
-####### what will be this repos hidden surprise 😁.
+###### what will be this repos hidden surprise 😁.
 
 (Little Hint : Do not touch his pocket, keep your hund(or mouse ) away from his money 😉)
 
